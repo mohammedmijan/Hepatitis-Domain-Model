@@ -1,0 +1,78 @@
+
+________________________________________________________________OBJECT VARIABLES__________________________________________________________________________
+STEROID THERAPHY: [Alcoholic hepatitis is a serious liver inflammation caused by excessive alcohol consumption.
+                     Steroid therapy may be beneficial for some patients with severe alcoholic hepatitis, but not for others. 
+                     To determine who may benefit from steroids, clinicians use scores such as the Maddrey's Discriminant Function (MDF) and the Lille score123. 
+                     The MDF is calculated using the patient's prothrombin time and serum bilirubin level. 
+                     If the MDF is above 32, the patient has a poor prognosis and may be a candidate for steroid therapy23. 
+                     The Lille score is calculated after seven days of steroid therapy, using six variables. 
+                     If the Lille score is below 0.45, the patient is responsive to steroids and should continue the treatment for 28 days. 
+                     If the Lille score is above 0.45, the patient is not responsive and should stop the steroid therapy1.] REFERENCE:[1. aafp.org, 2. mdapp.com , 3. emcrit.org]
+
+FATIGUE SYMPTOMS : [Fatigue is the most common symptom reported by patients with liver disease.] REFERENCE: www.ncbi.nlm.nih.gov
+
+MALAISE CONDITION : [Malaise is a general feeling of discomfort, illness, or fatigue that has no clearly identifiable cause.
+                    A person may feel this way for various reasons. 
+                    Some causes are transient and relatively benign, while others are more chronic and severe.] REFERENCE: [medicalnewstoday.com]
+
+ANOREXIA CONDITION : [ Signs and symptoms include missing meals, eating very little or avoiding eating any foods you see as fattening.
+                        Anorexia also includes emotional and behavioral issues involving an unrealistic perception of body weight and an extremely strong fear of gaining weight or becoming fat.
+                        Anorexia, in the medical context, refers to a lack of appetite or loss of appetite. It is a common symptom of hepatitis, which is inflammation of the liver.] REFERENCE: [1. nhs.uk, 2.mayoclinic.org, 3. chatgpt]
+
+SPLEEN PALPABLE : [The spleen is an organ that helps filter the blood and fight infections. Normally, the spleen is not palpable, unless it is enlarged due to various causes.
+                    A palpable spleen refers to the ability to feel the spleen by pressing on the abdomen during a physical examination.
+                    Certain hepatitis viruses can directly affect the spleen and contribute to its enlargement.] REFERENCE: [1. mayoclinic.org, 2. stanfordmedicine25.stanford.edu, 3. healthline.com ]
+
+SPIDERS : [Spider angiomas are caused by changes in blood flow due to the liver's impaired ability to process hormones, particularly estrogen. 
+            In liver disease, including hepatitis, hormone metabolism can be disrupted, leading to the development of these characteristic spider-like blood vessels on the skin.] REFERENCE:[1.  ccjm.org, 2. pdfs.semanticscholar.org, 3. europepmc.org]
+
+ASCITES : [Ascites in the context of hepatitis refers to the accumulation of excess fluid in the abdominal cavity. 
+           It is a common complication of advanced liver disease, including hepatitis. 
+            The damaged liver is less able to produce proteins that regulate fluid balance, leading to fluid leakage from blood vessels into the abdominal space. This can cause abdominal swelling, discomfort, and breathing difficulties. 
+            Ascites is a sign of significant liver dysfunction and often requires medical management.]REFERENCE:[1. http://dx.doi.org/10.1136/gutjnl-2020-321790, 2. ncbi.nlm.nih.gov 3. gut.bmj.com]
+
+VARICES : [ "varices" refer to enlarged and swollen blood vessels, typically occurring in the esophagus and stomach. 
+                These varices are prone to bleeding and are a complication of portal hypertension, which is elevated blood pressure in the portal vein system caused by liver damage. 
+                Hepatitis and other liver diseases can lead to portal hypertension, which in turn can cause the development of varices. 
+            These varices are particularly concerning because they can rupture and result in severe bleeding, potentially leading to life-threatening situations.] REFERENCE: [1. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052664, 2. https://iosrjournals.org/iosr-jnhs/papers/vol6-issue3/Version-2/N0603028898.pdf, 3. https://www.sciencegate.app/keyword/203848]
+
+HISTOLOGY : [Histology in the context of hepatitis refers to the microscopic examination of liver tissue. 
+                It involves studying the cellular and structural changes in liver cells (hepatocytes) and the surrounding tissue due to inflammation, damage, or disease. 
+                This process helps doctors and pathologists diagnose and understand the severity and type of hepatitis, providing insights into the extent of liver damage and guiding treatment decisions.] REFERENCE: [1. https://www.bmj.com/content/380/bmj-2022-070201, 2. https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-017-2772-3, 3. https://diagnosticpathology.biomedcentral.com/articles/10.1186/s13000-022-01197-5]
+
+
+_________________________________________________________________________________FLOAT OBJECTS__________________________________________________________________________
+
+BILIRUBIN: [Bilirubin is a yellow pigment produced during the breakdown of hemoglobin from old red blood cells. 
+            In the context of hepatitis, an inflammation of the liver, elevated levels of bilirubin can occur due to impaired liver function. 
+            The liver plays a crucial role in processing and eliminating bilirubin from the body. 
+            In hepatitis, liver damage can lead to reduced bilirubin processing, resulting in a buildup of bilirubin in the bloodstream. 
+            This can cause jaundice, a yellowing of the skin and eyes. 
+            Monitoring bilirubin levels helps assess the severity of hepatitis and its impact on liver function.] REFERENCE: [1. https://doi.org/10.1515/almed-2021-0047, 2. https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-018-0475-8, 3. ]
+
+ALKALINE PHOSPHATES : [Alkaline phosphatase (ALP) is an enzyme found in various tissues, including the liver, bones, intestines, and kidneys. 
+                        In the context of hepatitis, elevated levels of alkaline phosphatase in the blood can indicate liver dysfunction or damage. 
+                        Hepatitis, particularly conditions that cause inflammation or blockage of bile ducts within the liver, can lead to increased ALP levels. 
+                        Elevated ALP levels in hepatitis patients can suggest impaired bile flow, cholestasis, or liver cell damage. 
+                        Monitoring ALP levels along with other liver function tests helps clinicians assess the severity of hepatitis, determine its underlying causes, and guide appropriate treatment strategies.] REFERENCE : [1. https://www.frontiersin.org/articles/10.3389/fimmu.2017.00897/full, 2. https://www.bmj.com/content/346/bmj.f976, 3. https://www.hindawi.com/journals/bmri/2013/614081/ ]
+
+SGOT   : [SGOT, or serum glutamic-oxaloacetic transaminase, is an enzyme primarily found in the liver, heart, and muscles. 
+            In the context of hepatitis, elevated levels of SGOT in the blood can indicate liver damage or inflammation. 
+            Hepatitis causes liver cells to release SGOT into the bloodstream due to cell damage or disruption. 
+            Monitoring SGOT levels is crucial for assessing the extent of liver damage in hepatitis patients. 
+            Elevated SGOT levels suggest ongoing liver injury and inflammation. 
+            Alongside other liver function tests, SGOT measurements help medical professionals diagnose the severity of hepatitis, 
+            determine the underlying cause, and guide treatment decisions for better patient care.] REFERENCE : [1. https://academic.oup.com/toxsci/article/65/2/166/1634698, 2. https://apps.who.int/iris/rest/bitstreams/1119146/retrieve, 3. https://pmj.bmj.com/content/79/932/307 ]
+
+ALBUMIN : [Albumin is a protein produced by the liver and is an essential component of the blood. 
+            In the context of hepatitis, low levels of albumin in the blood can indicate compromised liver function. 
+            Hepatitis, particularly in advanced stages or with severe liver damage, can lead to reduced albumin production due to the liver's impaired ability. 
+            Low albumin levels can result in fluid accumulation in tissues, leading to edema and ascites (fluid buildup in the abdominal cavity) in hepatitis patients. 
+            Monitoring albumin levels is important for assessing liver health, identifying the severity of hepatitis, and managing complications related to liver dysfunction, such as fluid retention.] REFERENCE: [1. https://www.bmj.com/content/380/bmj-2022-070201, 2. https://gut.bmj.com/content/69/6/1127, 3. https://www.aafp.org/pubs/afp/issues/2019/1215/p759.html]
+
+PROTHROMBIN TIME: [Prothrombin time (PT) is a blood test that measures the time it takes for blood to clot. 
+                    In the context of hepatitis, prolonged prothrombin time indicates impaired blood clotting function, which can result from liver dysfunction. The liver produces proteins, including clotting factors, that are essential for proper blood coagulation. 
+                    In hepatitis patients, especially those with advanced liver disease, the liver's ability to produce these clotting factors can be compromised, leading to prolonged prothrombin time. Elevated PT levels can signify an increased risk of bleeding and complications in hepatitis patients. 
+                    Monitoring prothrombin time helps healthcare professionals assess liver function, gauge the severity of hepatitis-related liver damage, and guide appropriate interventions to manage clotting abnormalities and prevent bleeding issues.] REFERENCE: [1. https://link.springer.com/article/10.1007/s11239-009-0330-6, 2. https://pmj.bmj.com/content/76/895/280, 3. https://www.gastrojournal.org/article/S0016-5085%2852%2980008-3/pdf ]
+
+
